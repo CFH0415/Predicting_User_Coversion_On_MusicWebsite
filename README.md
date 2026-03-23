@@ -5,8 +5,8 @@ We using several machine learning models to identify potential premium users and
 
 In the project, the logic of my analyses is below:
 
-A. Cleaning and slicing data
-B. KNN model
-C. Decision Tree
-D. Random Forest
-E. Metrics Comparision (F1)
+- A. Cleaning and slicing data
+- B. KNN model
+- C. Decision Tree
+- D. Random Forest
+- E. Metrics Comparision (F1)
