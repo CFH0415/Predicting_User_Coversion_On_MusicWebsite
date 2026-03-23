@@ -2,9 +2,10 @@
 
 ## Project Overview
 This is a project from UMN MSBA fall term, Business Analytics in R course.
+
 This project builds a classification model to predict whether a free user will convert to a premium subscriber within the next six months after receiving targeted promotion.
 
-In the project, the workflow of my analyses is below:
+In the project, the workflow of our analyses is below:
 1. Define the business problem: identify likely adopters among free users.
 2. Perform initial EDA and review the dataset structure.
 3. Handle severe class imbalance using SMOTE after splitting the data into training, validation, and test sets.
